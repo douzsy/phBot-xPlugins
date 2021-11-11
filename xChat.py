@@ -12,7 +12,7 @@ pUrl = 'https://raw.githubusercontent.com/JellyBitz/phBot-xPlugins/master/xChat.
 # ______________________________ Initializing ______________________________ #
 
 # Globals
-MESSAGES_DELAY = 10000 # delay between messages (ms)
+MESSAGES_DELAY = 120000 # delay between messages (ms)
 message_delay_counter = 0
 character_data = None
 
